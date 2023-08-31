@@ -1,2 +1,3 @@
 #!/bin/bash
-su 
+wc -l file
+su betty  
