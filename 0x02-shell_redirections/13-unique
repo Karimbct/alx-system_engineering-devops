@@ -1,0 +1,2 @@
+#!/vin/bash
+sort | uniq -u
